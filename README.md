@@ -42,6 +42,9 @@ The project uses the following models and techniques:
 - Word2Vec and GloVe models for word embeddings
 - ROUGE metrics for evaluation
 
+## RESULTS
+
+![Screenshot (502)](https://github.com/user-attachments/assets/e08c2df1-2b4c-4463-a96f-7f85738624d6)
 
 ## clone
 git clone https://github.com/MRamya-sri/NEWS-ARTICLE-TEXT-SUMMARIZATION.git
@@ -54,6 +57,6 @@ pip install streamlit pandas altair numpy Pillow nltk transformers wordcloud mat
 import nltk
 nltk.download('wordnet')
 
-## RESULTs
-![Screenshot (502)](https://github.com/user-attachments/assets/71c31c6d-16ba-4323-8a43-a117e07e0ddd)
+
+
 
