@@ -54,9 +54,6 @@ pip install streamlit pandas altair numpy Pillow nltk transformers wordcloud mat
 import nltk
 nltk.download('wordnet')
 
-## RESULTS
+## RESULTs
+![Screenshot (502)](https://github.com/user-attachments/assets/71c31c6d-16ba-4323-8a43-a117e07e0ddd)
 
-
-![Screenshot (502)](https://github.com/user-attachments/assets/9623b5c9-c004-4456-ab34-6d513a6b2243)
-![Screenshot (501)](https://github.com/user-attachments/assets/21270b6c-0a0f-41a9-960c-6aa4ae2f2e58)
-![Screenshot (504)](https://github.com/user-attachments/assets/d9d264dd-44f8-49b8-bc00-6295d7bc7ef8)
