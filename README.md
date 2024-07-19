@@ -45,6 +45,8 @@ The project uses the following models and techniques:
 ## RESULTS
 
 ![Screenshot (502)](https://github.com/user-attachments/assets/e08c2df1-2b4c-4463-a96f-7f85738624d6)
+![Screenshot (501)](https://github.com/user-attachments/assets/cc1a23de-c55a-44a8-8785-9285fc7fd7f7)
+![Screenshot (504)](https://github.com/user-attachments/assets/c50122c6-d554-4fb8-801d-0399bdaafb89)
 
 ## clone
 git clone https://github.com/MRamya-sri/NEWS-ARTICLE-TEXT-SUMMARIZATION.git
