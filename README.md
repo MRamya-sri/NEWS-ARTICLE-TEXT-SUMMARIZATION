@@ -44,7 +44,7 @@ The project uses the following models and techniques:
 
 
 ## clone
-git clone https://github.com/MRamya-sri/highlights.git
+git clone https://github.com/MRamya-sri/NEWS-ARTICLE-TEXT-SUMMARIZATION.git
 
 ## Installation
 To install the necessary dependencies, run:
